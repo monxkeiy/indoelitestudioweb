@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+5import { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import {
   Gamepad2,
@@ -39,11 +39,11 @@ const maps = [
     difficulty: 3,
   },
   {
-    id: "mount-bj",
-    name: "Mount BJ",
+    id: "mount-elite",
+    name: "Mount Elite",
     description:
       "Rute menanjak ala speedrun dengan checkpoint rapat, pemandangan bagus, dan event summit.",
-    playUrl: "https://www.roblox.com/share?code=31c8096fd8de1e42ae2582622778cc68&type=ExperienceDetails&stamp=1759901581092",
+    playUrl: "https://www.roblox.com/id/games/88335800030716/NEW-EVENT-X25-MOUNT-ELITE",
     thumb: "",
     tags: ["Adventure", "Speedrun", "Carry"],
     difficulty: 4,
